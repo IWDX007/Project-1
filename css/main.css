@@ -30,7 +30,7 @@ body{
     opacity: 1;
     transition: opacity 0.3s;
 }
-@media(max-width:1200px){
+@media(max-width:480px){
     .container{ width: 100wv;
    }
    .panel:nth-of-type(4),
